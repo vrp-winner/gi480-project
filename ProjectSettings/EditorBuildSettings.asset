@@ -9,5 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/ScanObjectScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f4b5cd5ba5f8c854eb60269b5066fc62, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 48afe55c55f0a414fb3d8d8404bee156, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ad704f760f6f59f4599a0ee5f58c5a98, type: 2}
   m_UseUCBPForAssetBundles: 0
