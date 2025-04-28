@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ScanObjectScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/FindItemScene.unity
+    guid: 7fd19e7c75fd14a42aa98c66a3a7f09c
+  - enabled: 1
+    path: Assets/Scenes/FaceFilterScene.unity
+    guid: 9f4715df2e21bc64fb085bcfca1428ff
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f4b5cd5ba5f8c854eb60269b5066fc62, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
