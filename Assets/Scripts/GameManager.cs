@@ -7,7 +7,6 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance;
     
     public GameObject mainMenuPanel;
-    public GameObject scanPanel;
     public GameObject creditPanel;
     
     public Button startButton;
@@ -38,14 +37,12 @@ public class GameManager : MonoBehaviour
     public void MainMenu()
     {
         mainMenuPanel.SetActive(true);
-        scanPanel.SetActive(false);
         creditPanel.SetActive(false);
     }
 
     public void StartGame()
     {
         mainMenuPanel.SetActive(false);
-        scanPanel.SetActive(true);
     }
     
     public void Credit()
