@@ -14,7 +14,7 @@ public class FindableItem : MonoBehaviour
             {
                 if (hit.collider.CompareTag("Item"))
                 {
-                    SceneManager.LoadScene("FaceFilterScene");
+                    SceneManager.LoadScene("FilterScene");
                 }
             }
         }
