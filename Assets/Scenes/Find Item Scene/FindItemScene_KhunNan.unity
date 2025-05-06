@@ -1395,7 +1395,7 @@ MonoBehaviour:
   - {fileID: 1434694532}
   - {fileID: 809699371}
   - {fileID: 294877826}
-  itemPrefab: {fileID: 2111883268333097243, guid: cb5f840f0e64e4a4d8cc94eb5393cd35, type: 3}
+  itemPrefab: {fileID: 2111883268333097243, guid: 7b728b3139c116545a5468ace7a95240, type: 3}
   delayBeforeSpawn: 5
 --- !u!4 &2040580993
 Transform:
