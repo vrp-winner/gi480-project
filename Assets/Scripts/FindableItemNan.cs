@@ -14,7 +14,7 @@ public class FindableItemNan : MonoBehaviour
             {
                 if (hit.collider.CompareTag("Item"))
                 {
-                    SceneManager.LoadScene("FilterSceneNan");
+                    SceneManager.LoadScene("FilterScene_KhunNan");
                 }
             }
         }

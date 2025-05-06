@@ -14,7 +14,7 @@ public class FindableItemSai : MonoBehaviour
             {
                 if (hit.collider.CompareTag("Item"))
                 {
-                    SceneManager.LoadScene("FilterSceneSai");
+                    SceneManager.LoadScene("FilterScene_SaiThong");
                 }
             }
         }

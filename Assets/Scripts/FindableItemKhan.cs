@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class FindableItem : MonoBehaviour
+public class FindableItemKhan : MonoBehaviour
 {
     void Update()
     {
@@ -14,7 +14,7 @@ public class FindableItem : MonoBehaviour
             {
                 if (hit.collider.CompareTag("Item"))
                 {
-                    SceneManager.LoadScene("FilterScene");
+                    SceneManager.LoadScene("FilterScene_KhunKhan");
                 }
             }
         }
