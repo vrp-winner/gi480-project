@@ -2016,7 +2016,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39e85576aeccd6544b08f75e1bcdd268, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: FindItemScene
+  sceneName: FindItemScene_KhunKhan
 --- !u!1 &1360710922
 GameObject:
   m_ObjectHideFlags: 0
@@ -2069,7 +2069,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39e85576aeccd6544b08f75e1bcdd268, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: FindItemScene
+  sceneName: FindItemScene_SaiThong
 --- !u!114 &1360710925
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2791,7 +2791,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39e85576aeccd6544b08f75e1bcdd268, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: FindItemScene
+  sceneName: FindItemScene_KhunNan
 --- !u!114 &1608484429
 MonoBehaviour:
   m_ObjectHideFlags: 0
